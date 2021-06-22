@@ -7,5 +7,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nerwind",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nerwind/amogusify.git"
+  },
+  "keywords": [
+    "amogus",
+    "sus",
+    "amogusify",
+    "node",
+    "sussy-sus",
+    "useless"
+  ],
+  "bugs": {
+    "url": "https://github.com/Nerwind/amogusify/issues"
+  },
+  "homepage": "https://github.com/Nerwind/amogusify#readme"
 }
